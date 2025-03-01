@@ -1,5 +1,5 @@
 
-num=int(input('enter 4 digits : '))
+num=int(input("enter 4 digit number  : "))
 
 thousands = num // 1000
 hundreds = num %1000 // 100
