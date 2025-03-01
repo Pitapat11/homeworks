@@ -1,4 +1,4 @@
-num = int(input("Enter a 5 digit number: "))
+num = int(input("enter 5 digit number: "))
 
 n1 = num // 10000
 n2 = (num % 10000) // 1000
