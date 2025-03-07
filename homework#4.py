@@ -1,4 +1,4 @@
-nums = [1,2,3]
+nums = [1,2,3,4,5,6]
 middle_indexlist = len(nums) // 2
 
 if len(nums) % 2 != 0:
