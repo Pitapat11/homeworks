@@ -1,5 +1,6 @@
 nums= [1,3,4]
 even_nums=0
+
 if not nums:
     print(0)
 else:
