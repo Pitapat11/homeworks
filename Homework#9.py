@@ -1,4 +1,3 @@
-#lesson
 
 import string
 
