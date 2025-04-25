@@ -67,9 +67,9 @@ group = Group('PD1')
 for st in students:
     try:
         group.add_student(st)
-        print(f"✅ Додано: {st.first_name} {st.last_name}")
+        print(f" Додано: {st.first_name} {st.last_name}")
     except GroupFullException as e:
-        print(f"❌ Помилка: {e}")
+        print(f" Помилка: {e}")
 
 print("\n📋 Склад групи:")
 print(group)
